@@ -2,6 +2,7 @@
 <title>Tieg Zaharia's Git Achievements</title>
 <description></description>
 <link></link>
+<item><title>Banker (Level 4)</title><description>Join two or more development histories together with git merge.</description></item>
 <item><title>Cherry Picker</title><description>Used git cherry-pick to add a sha from another branch into the current branch.</description></item>
 <item><title>Product Manager (Level 4)</title><description>Stash the changes in a dirty working directory away with git stash.</description></item>
 <item><title>Apprentice Banker (Level 3)</title><description>Join two or more development histories together with git merge.</description></item>
